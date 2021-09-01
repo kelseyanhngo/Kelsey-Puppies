@@ -1,0 +1,43 @@
+* {
+    font-family: "Fantasy", "Courier New", monospace;
+    font-weight: 600;
+    
+}
+body {
+    background: url('../img/background/background1.jpg');
+    background-size: 130px;
+    /* background: linear-gradient(#e66465, #9198e5); */
+}
+
+.intro {
+    font-size: 20px;
+    text-align: center;
+
+    
+   
+}
+.table-img img {
+    width: 250px;  
+    height: 200px; 
+    -webkit-border-radius: 650px;
+    -moz-border-radius: 650px;
+    border-radius: 650px; 
+    border: 1px ;
+    
+    box-shadow: 5px 10px 18px #888888;
+    }
+table {
+    width: 100%;
+    height: 250px;
+    margin-left:auto; 
+    margin-right:auto;
+    margin-top: 80px;
+    text-align: center;
+    padding:10px;
+    border-collapse: separate;
+    border-spacing: 0 1em;
+}
+
+.icon {
+    font-weight: bold;
+}
