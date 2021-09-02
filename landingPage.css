@@ -4,7 +4,7 @@
     
 }
 body {
-    background: url('../img/background/background1.jpg');
+    background: url('./img/background/background1.jpg');
     background-size: 130px;
     /* background: linear-gradient(#e66465, #9198e5); */
 }
