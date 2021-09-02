@@ -32,3 +32,5 @@ function removeActiveClasses() {
         panel.classList.remove('active')
     })
 }
+
+//Source: 50days 50 projects 
