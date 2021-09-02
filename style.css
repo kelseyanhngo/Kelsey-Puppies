@@ -14,7 +14,7 @@ body {
   overflow: hidden;
   margin: 0;
   background: url('./img/background/background1.jpg');
-  /* new update here..  */ 
+
   background-size: 130px;
 }
 
@@ -22,6 +22,7 @@ body {
   display: flex;
   width: 90vw;
 }
+
 
 .panel {
   background-size: cover;
@@ -68,3 +69,5 @@ body {
     display: none;
   }
 }
+
+
